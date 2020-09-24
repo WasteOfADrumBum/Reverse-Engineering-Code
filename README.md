@@ -1,4 +1,4 @@
-# Unit-14-Sequelize-Homework-Reverse-Engineering-Code
+# Sequelize: Reverse Engineering Code
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40WasteOfADrumBum-green)
 
